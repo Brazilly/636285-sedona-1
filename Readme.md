@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Василий Барков](https://up.htmlacademy.ru/htmlcss/21/user/636285).
-* Наставник: `Неизвестно`.
+* Студент: [Василий Барков](https://up.htmlacademy.ru/htmlcss/20/user/636285).
+* Наставник: [Катя Матя](https://up.htmlacademy.ru/htmlcss/20/user/84950)
 
 ---
 

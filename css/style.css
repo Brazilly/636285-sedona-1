@@ -448,8 +448,6 @@ a {
 }
 
 .booking-form-icon-buttons {
-  position: relative;
-
   padding: 0;
   margin: 0;
 
@@ -457,6 +455,10 @@ a {
 
   border: none;
   background: #f2f2f2;
+}
+
+.booking-form-icon-buttons span {
+  position: relative;
 }
 
 .booking-form-button-cal {
